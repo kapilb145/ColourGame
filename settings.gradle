@@ -1,0 +1,2 @@
+rootProject.name='ColourGameTask'
+include ':app'
